@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/pn-blob-cache"]
+	path = wp-content/plugins/pn-blob-cache
+	url = https://github.com/ProjectNami/projectnami-blob-cache.git
