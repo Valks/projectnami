@@ -1,6 +1,7 @@
 [submodule "wp-content/plugins/pn-blob-cache"]
 	path = wp-content/plugins/pn-blob-cache
-	url = https://github.com/ProjectNami/projectnami-blob-cache.git
+	url = https://github.com/Valks/projectnami-blob-cache.git
+	branch = deploy
 [submodule "wp-content/plugins/ApplicationInsights"]
 	path = wp-content/plugins/ApplicationInsights
 	url = https://github.com/Valks/ApplicationInsights-WordPress.git
